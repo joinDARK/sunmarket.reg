@@ -3,7 +3,7 @@ import BackgroundImg from './BackgroundImg'
 import SignUpRegistation from './SignUpRegistation'
 import InputOnRegistration from './InputOnRegistration'
 import "../css/style.sass"
-import "../css/adaptiv.sass"
+import "../css/adaptiv.css"
 import ButtonCreateAccount from './ButtonCreateAccount'
 
 function App() {
