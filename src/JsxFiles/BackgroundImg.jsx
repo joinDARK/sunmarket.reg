@@ -1,5 +1,5 @@
 import React from 'react'
-import s from 'src/image/Ellipse1.png'
+import s from '/src/image/Ellipse1.png'
 
 function BackgroundImg() {
   return (
