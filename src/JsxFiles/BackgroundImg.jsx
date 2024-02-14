@@ -5,7 +5,7 @@ function BackgroundImg() {
   return (
     <div className='RightEllips'>
         <div className="text">
-          <p>Have you an account?</p>
+          <a href='#'>Have you an account?</a>
           <h1>SING IN</h1>
         </div>
         <div className="image">
